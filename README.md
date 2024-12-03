@@ -78,6 +78,7 @@ assign c6 = a ^ b;
 assign c7 = ~(a ^ b);
 endmodule
  ```
+Developed by register no - SHAABIN R S 24006663
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-12-03 at 13 36 48_76a233d6](https://github.com/user-attachments/assets/8daf9e76-149d-4a6e-bc81-731899e47fd9)
 
